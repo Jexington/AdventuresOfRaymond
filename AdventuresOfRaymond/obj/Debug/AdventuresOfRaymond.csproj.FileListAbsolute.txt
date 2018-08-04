@@ -1,0 +1,7 @@
+C:\Users\Jexington\source\repos\AdventuresOfRaymond\AdventuresOfRaymond\bin\Debug\AdventuresOfRaymond.exe.config
+C:\Users\Jexington\source\repos\AdventuresOfRaymond\AdventuresOfRaymond\bin\Debug\AdventuresOfRaymond.exe
+C:\Users\Jexington\source\repos\AdventuresOfRaymond\AdventuresOfRaymond\bin\Debug\AdventuresOfRaymond.pdb
+C:\Users\Jexington\source\repos\AdventuresOfRaymond\AdventuresOfRaymond\obj\Debug\AdventuresOfRaymond.csprojAssemblyReference.cache
+C:\Users\Jexington\source\repos\AdventuresOfRaymond\AdventuresOfRaymond\obj\Debug\AdventuresOfRaymond.csproj.CoreCompileInputs.cache
+C:\Users\Jexington\source\repos\AdventuresOfRaymond\AdventuresOfRaymond\obj\Debug\AdventuresOfRaymond.exe
+C:\Users\Jexington\source\repos\AdventuresOfRaymond\AdventuresOfRaymond\obj\Debug\AdventuresOfRaymond.pdb
